@@ -248,11 +248,11 @@
   text-align: center;
   text-decoration: none;
   font-size: 2rem;
-
+  cursor: pointer;
   margin-top: -8px;
-
   line-height: 1.1;
   float: right;
+  padding: 0px;
 }
 .sectionTwo--sub3--rightcontent--item > p {
   clear: right;
@@ -272,6 +272,7 @@
 }
 .sectionTwo--sub4 > h2 {
   margin-left: 120px;
+  font-weight: 700;
 }
 .sectionTwo--sub4--arrows {
   float: right;
@@ -326,6 +327,26 @@
   .sectionOne--sub2,
   .sectionTwo--subs {
     margin: 50px 0px;
+  }
+  .sectionTwo--sub4 {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .sectionTwo--sub1,
+  .sectionTwo--sub2,
+  .sectionTwo--sub3,
+  .sectionTwo--sub4 {
+    margin-top: 50px;
+  }
+  .sectionTwo--sub4 > h2 {
+    margin-left: 0px;
+  }
+  .sectionTwo--sub4--arrows {
+    margin-right: -0px;
+  }
+  .sectionTwo--sub4--content {
+    right: 120px;
+    width: 100%;
   }
   .sectionOne--sub1--content {
     margin-top: 50px;
