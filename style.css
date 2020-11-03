@@ -238,7 +238,7 @@
 .sectionTwo--sub3--rightcontent--item {
   margin-bottom: 30px;
 }
-.sectionTwo--sub3--rightcontent--item button {
+.sectionTwo--sub3--rightcontent--item--heading button {
   border-radius: 50%;
   width: 35px;
   height: 35px;
@@ -260,7 +260,7 @@
   font-size: 1rem;
   line-height: 2;
 }
-.sectionTwo--sub3--rightcontent--item h6 {
+.sectionTwo--sub3--rightcontent--item--heading h6 {
   font-weight: 600;
   font-size: 1.1rem;
   margin-bottom: 30px;
