@@ -389,6 +389,12 @@
     height: auto;
     padding-bottom: 50px;
   }
+  .carousel-control-prev {
+    margin-left: -50px;
+  }
+  .carousel-control-next {
+    margin-right: -50px;
+  }
 }
 @media screen and (max-width: 593px) {
   .sectionTwo--sub2--content {
